@@ -1,4 +1,4 @@
-FROM node:boron
+FROM node:carbon
 MAINTAINER YPCloud <cloud@yp.ca>
 
 ARG CHROME_VERSION="google-chrome-stable"
